@@ -1,0 +1,24 @@
+            Smart Library 1.0
+
+
+............Team Details...................
+
+         Name                 Phone No
+1. Tahera  Khatun Sima       01929033548 
+2. Amana Akter Sonia         01734549104
+3. Najmun Nahar Luna         01922298595  
+3. Lopa Rani Nirjhora        01622822616
+
+............Project Details...................
+
+By this system admin can search, insert, update and delete the books from one perticuler shelf. When students come to borrow a book, admin can easily search that book by its id no. Admin can issue a book and record the issue date and whithin which date student have to return it.
+
+According to return date if any student can not submit that book what will be the fine, system will automatically tell the admin.
+
+If there are several books with same author and same title, then if one student borrow one book and another student borrow next book, then "search book" option tell what are the available books, issued books and total books.
+
+
+
+
+
+
